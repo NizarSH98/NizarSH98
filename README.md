@@ -1,10 +1,23 @@
-# 💫 About Me:
-🔭 I’m currently working on: AI-driven robotics, sustainability, and automation projects at AUB ESDU, including the autonomous hexapod robot **EcoStrider**, AI tools for agriculture, and smart sensing systems.<br><br>
-👯 I’m looking to collaborate on: Robotics, AI, machine learning, computer vision, embedded systems, and applied sustainability technologies.<br><br>
-🤝 I’m looking for help with: advanced robotics software architecture, SLAM and navigation, real-time systems, and scaling AI-powered products into reliable SaaS solutions.<br><br>
-🌱 I’m currently learning: ROS 2, autonomous robotics pipelines, advanced AI agent systems, scalable backend architecture, and stronger deployment workflows for real-world AI products.<br><br>
-💬 Ask me about: AI/ML, robotics, ESP32 systems, RAG chatbots, computer vision, automation workflows, and practical prototype building.<br><br>
-⚡ Fun fact: I’ve built systems ranging from AI-powered agricultural tools and smart sensor networks to custom robotics platforms and a directional Wi-Fi antenna.
+## About Me
+
+I am an AI and Mechatronics Engineer focused on building practical intelligent systems that connect AI, robotics, embedded devices, and real-world deployment.
+
+My work spans autonomous robotics, computer vision, embedded systems, workflow automation, domain-specific AI tools, and sustainability-focused technology. I build systems that go beyond prototypes and aim to solve real operational problems in the physical and digital world.
+
+I am currently working on projects involving autonomous robotics, AI for agriculture, ESP32-based sensing and control systems, Retrieval-Augmented Generation assistants, AI dashboards, and automation platforms. A major part of my work is combining software and hardware into reliable, usable systems that can support decision-making, monitoring, and intelligent interaction.
+
+My technical interests include:
+- Artificial intelligence and machine learning
+- Robotics and autonomous systems
+- Computer vision and intelligent sensing
+- Embedded systems and IoT
+- AI agents and workflow automation
+- Backend systems and AI product development
+- Applied sustainability technologies
+
+I have also integrated OpenClaw into parts of my daily workflow and applied AI automation skills to support social media content operations, browser-based task execution, and practical automation pipelines.
+
+I am especially interested in building and collaborating on projects related to AI engineering, robotics, intelligent automation, computer vision, and scalable real-world systems.
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/nizar-shehayeb-06b0a9297)
